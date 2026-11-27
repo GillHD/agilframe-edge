@@ -1,0 +1,12 @@
+{
+  "name": "agilframe-edge",
+  "private": true,
+  "type": "module",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test test/rtmp-publisher.test.mjs"
+  }
+}
