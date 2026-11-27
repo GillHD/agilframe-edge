@@ -1,10 +1,12 @@
 # AgilFrame Edge
 
-Контроллер на Node.js и FFmpeg для публикации готового видео в AgilFrame.
+Компонент AgilFrame для встраиваемых систем. Целевая среда — устройства с
+embedded Linux, например медиашлюзы и одноплатные компьютеры.
+Текущая реализация — агент на Node.js и FFmpeg для публикации готового MP4
+в комнату AgilFrame через RTMP/RTMPS без перекодирования.
 Клонируйте этот репозиторий и запускайте команды из его корня.
 
 [Общий проект](https://github.com/GillHD/agilframe) · [Core](https://github.com/GillHD/agilframe-core)
-
 
 ## Публикация MP4 в SFU-комнату
 
